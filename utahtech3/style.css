@@ -4,6 +4,7 @@ body {
     color: #666666;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background: linear-gradient(to bottom, #eeeeee, #ffffff);
+    background-attachment: fixed;
 
 }
 
@@ -67,7 +68,7 @@ dt {
 #studenthero {
     height: 300px;
     background-image: url("studenthero.jpg");
-    background-repeat: no repeat;
+    background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -75,7 +76,7 @@ dt {
 #facultyhero {
     height: 300px;
     background-image: url("facultyhero.jpg");
-    background-repeat: no repeat;
+    background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
