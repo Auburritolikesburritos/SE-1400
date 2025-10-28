@@ -41,6 +41,7 @@ header button {
     background-color: aqua;
     border: none;
     border-radius: 70px;
+    width: 100px;
 }
 
 .furever {
