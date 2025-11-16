@@ -86,6 +86,9 @@ header button {
         grid-template-columns: minmax(0px, 1fr) 768px minmax(0px, 1fr);
     }
 
+    .content {
+        grid-column: 2 / 3;
+    }
     .furever {
         font-size: 4em;
 
